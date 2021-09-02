@@ -1,5 +1,7 @@
 package main
 
+//import "paquetes/figuras"
+
 //import "github.com/donvito/hellomod"
 import "github.com/alexroel/figuras"
 
